@@ -2,7 +2,7 @@
 
 # Introduction
 
-The modern knowledge worker doesn’t lack information; they lack a system that converts information into advantage. The default state is a firehose that exhausts attention, fragments memory, and produces little that compounds. The results of this are increased stress level, feeling of not being enough and generally underperforming. What prevents knowledge workers to act decisively is the perception that it will be impossible for them to find the time required to triage, consume, and digest the meaningful information that will make a difference.
+The modern knowledge worker doesn’t lack information; they lack a system that converts information into advantage. The default state is a firehose that exhausts attention, fragments memory, and produces little that compounds. This leads to heightened stress levels, a sense of inadequacy, and generally poorer performance. What prevents knowledge workers to act decisively is the perception that it will be impossible for them to find the time required to triage, consume, and digest the meaningful information that will make a difference.
 
 The thesis of this essay is simple: your edge is not reading more, it’s building a pipeline that turns the right inputs into reusable assets you can retrieve, recombine, and apply. When that pipeline runs reliably, your output and outcomes compound.
 
